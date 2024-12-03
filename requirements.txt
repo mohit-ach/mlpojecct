@@ -1,0 +1,6 @@
+pandas
+numpy
+seaborn
+-e .
+#whenevenr i am trying to install req.txt , i want setup.py to run to build packages , for that we use -e.
+     
