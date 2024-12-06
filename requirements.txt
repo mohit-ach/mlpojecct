@@ -1,6 +1,10 @@
 pandas
 numpy
 seaborn
--e .
+matplotlib
+scikit-learn
+catboost
+xgboost
+#-e .
 #whenevenr i am trying to install req.txt , i want setup.py to run to build packages , for that we use -e.
      
